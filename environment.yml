@@ -1,6 +1,7 @@
 name: conda_env_lm
 channels:
   - defaults
+  - bioconda
 dependencies:
   - blast
   - seaborn
