@@ -1,0 +1,11 @@
+name: conda_env_lm
+channels:
+  - defaults
+dependencies:
+  - blast
+  - seaborn
+  - biopython
+  - jupyter_contrib_nbextensions
+  - pandas
+  - notebook
+prefix: /homes/emarriott/.conda/envs/conda_env_lm
