@@ -1,9 +1,8 @@
 ![title](https://github.com/mtinti/TriTrypML_code/blob/master/static/ANTI-INFECTIVES-RGB_200pc.png)
 # TriTrypML
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtinti/TriTrypML_code/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/e-marriott/honours_project/HEAD?filepath=project_notebook.ipynb)
 
-https://zenodo.org/record/3517812
 
 # Multi-omics integrations of dataset deposited at TriTrypDB
 ## Affiliation
