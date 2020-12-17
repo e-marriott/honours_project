@@ -1,28 +1,24 @@
+
 ![title](https://github.com/mtinti/TriTrypML_code/blob/master/static/ANTI-INFECTIVES-RGB_200pc.png)
-# TriTrypML
+# *T. brucei* Genome Annotation
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/e-marriott/honours_project/HEAD?filepath=project_notebook.ipynb)
 
 
-# Multi-omics integrations of dataset deposited at TriTrypDB
+# Identification of new protein genes in *T. brucei* by the analysis of transcriptomic and proteomic data
 ## Affiliation
-Michele Tinti and Michael A.J. Ferguson
+Lizzie Marriott and Michele Tinti
 
  Wellcome Centre for Anti-Infectives Research
 School of Life Sciences, University of Dundee
 
 ## Abstract
 <p style='text-align: justify;'>
-The number of Proteomics and Genomics experiments is growing.
-This large amount of data poses new challenges to the scientific community.
-In particular, the amount of available data is not matched by the capacity of
-common bioinformatics tools for retrieving and extracting useful insights from the
-publicly accessible datasets. Machine learning can mitigate this issue by providing powerful
-analysis tools. However, data needs to be prepared and formatted for machine learning analysis.
-In this paper, we share with the trypanosome research community a series of Jupyter notebooks to
-demonstrate the utility of machine learning applied to the analysis of our own OMIC experiments
-and those deposited at the TryTripDB database.</p>
+Sequenced reference genomes of *Trypanosoma brucei* require updating to provide more accurate gene annotations. 
+In particular the reference strains 927 and 427 are potentially missing many protein coding genes that can only be identified through detailed manual annotation. 
+In this project we utilised newly obtained transcriptomic (RNASeq and RiboSeq) and proteomic (SILAC Mass Spectrometry) data to identify 9 new protein coding genes in the *T. brucei* TRUE927 genome,
+ and by cross-comparison identify homologues in the 427_2018 (lister strain) genome.
+This Jupyter notebook is provided as a record for the steps of our analysis that were conducted programatically.
+ A full record of the methods, results and conclusions is presented in the associated thesis 'Identification and Annotation of New Protein Coding Genes in the Genome of *Trypansosoma Brucei*'</p>
 
-### Static versions of the notebooks are avaiable at:
-- Make Dataset https://tritrypdb-ml.onrender.com/TriTrypDB_ML_1.0.html
-- Example 1 https://tritrypdb-ml.onrender.com/TriTrypDB_ML_1.1.html
+
