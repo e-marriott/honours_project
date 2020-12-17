@@ -14,7 +14,7 @@ School of Life Sciences, University of Dundee
 
 ## Abstract
 <p style='text-align: justify;'>
-Sequenced reference genomes of *Trypanosoma brucei* require updating to provide more accurate gene annotations. 
+Sequenced reference genomes of _Trypanosoma brucei_ require updating to provide more accurate gene annotations. 
 In particular the reference strains 927 and 427 are potentially missing many protein coding genes that can only be identified through detailed manual annotation. 
 In this project we utilised newly obtained transcriptomic (RNASeq and RiboSeq) and proteomic (SILAC Mass Spectrometry) data to identify 9 new protein coding genes in the *T. brucei* TRUE927 genome,
  and by cross-comparison identify homologues in the 427_2018 (lister strain) genome.
