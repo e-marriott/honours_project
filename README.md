@@ -19,7 +19,7 @@ In particular the reference strains 927 and 427 are potentially missing many pro
 In this project we utilised newly obtained transcriptomic (RNASeq and RiboSeq) and proteomic (SILAC Mass Spectrometry) data to identify 9 new protein coding genes in the *T. brucei* TRUE927 genome,
  and by cross-comparison identify homologues in the 427_2018 (lister strain) genome.
 This Jupyter notebook is provided as a record for the steps of our analysis that were conducted programatically.
- A full record of the methods, results and conclusions is presented in the associated thesis 'Identification and Annotation of New Protein Coding Genes in the Genome of *Trypansosoma Brucei*'.
+ A full record of the methods, results and conclusions is presented in the associated thesis 'Identification and Annotation of New Protein Coding Genes in the Genome of *Trypanosoma Brucei*'.
 
 
 
